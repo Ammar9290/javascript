@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "demo-app-1",
+			"path": "../../github/demo-app-1"
+		}
+	],
+	"settings": {}
+}
